@@ -1,0 +1,1 @@
+#1 Project Setup React Vite & Configuring Tailwind CSS
